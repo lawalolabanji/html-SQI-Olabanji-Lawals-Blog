@@ -1,0 +1,4 @@
+Combine text and multimedia
+
+Write a blog post that contains text, image and audio and video.  Write on a topic that
+interests you.
